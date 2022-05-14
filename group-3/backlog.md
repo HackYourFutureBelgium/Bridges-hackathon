@@ -29,6 +29,7 @@ This website include following features:
 2. Animations
 3. Testimonials(successful stories)
 4. Notification of company visiting your profile.
+5. Website
 
 
 

@@ -2,7 +2,6 @@
 
 ## Topic
 
-We have decided to create website for IT school for women in Antwerpen. Everybody from Belgium can register in this course.
-This website has 3 badges.
+We have decided to create a mobile/website for women who have an IT background. On this website users will have a profile page showing their skill and having some badges from their teacher and website itself.
 
 ## Participants (GitHub-handle)
