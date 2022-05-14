@@ -16,7 +16,7 @@ As a **Developer and mother**:
 
 - I want to be able to filter the companies by badges.
 
-- I want to know if the companies have health assistance and maternity support programs.
+- I want to know if the companies have health assistance and Family-friendly working arrangements.
 
 - I want to read some testimonials about the experiences of employees.
 
