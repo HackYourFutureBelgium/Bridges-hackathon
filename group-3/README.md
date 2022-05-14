@@ -8,5 +8,7 @@ This website has 3 badges.
 ## Participants (GitHub-handle)
 
 [Zerubabel4](https://github.com/Zerubabel4)
+
 [Nazgul](https://github.com/NazgulM)
+
 [Mame Azed](https://github.com/mametur)
