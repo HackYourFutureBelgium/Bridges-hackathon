@@ -28,3 +28,4 @@ This website include following features:
 3. Testimonials(successful stories)
 4. Notification of company visiting your profile.
 5. Website
+6. Company can send direct messages for students.
