@@ -8,9 +8,9 @@ This website include following features:
 
 1. Logo
 2. Navbar
-3. Home Page (introduction, login)
+3. Home Page (introduction, login, sign up, forgot)
 4. About Page
-5. User profiles Page 
+5. User profiles Page
 6. Teacher Page
 7. Company Page
 
@@ -21,8 +21,6 @@ This website include following features:
 1. Avatar (images)
 2. Login with third party account, f.e. GitHub or LinkedIn.
 
-
-
 ## Could Haves
 
 1. Videos
@@ -30,7 +28,3 @@ This website include following features:
 3. Testimonials(successful stories)
 4. Notification of company visiting your profile.
 5. Website
-
-
-
-
