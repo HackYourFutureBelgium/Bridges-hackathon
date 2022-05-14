@@ -9,3 +9,5 @@
 7. The badge pages for student must have to at least three  badges.
 8. Teacher could have give badge to student or recommendation.
 9. When company visits student profile will show as badge on their profile.
+10. When company visit the website, they can search students with filtering features, like badges, skills, place etc.
+
